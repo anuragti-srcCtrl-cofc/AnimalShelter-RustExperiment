@@ -1,0 +1,9 @@
+1000000001 Buddy D 02-07-2005 Sarah_Jones 555-123-4567 friendly
+1000000002 Whiskers C 11-12-2019 Tom_Baker tom.baker@example.com fully_socialized
+1000000003 Kiwi B 06-21-2018 Maria_Gonzalez 555-987-6543 feral
+1000000004 Star H 03-15-2012 Liam_ONeil 555-222-3333 aggressive
+1000000005 Thumper R 09-30-2020 Emily_Clark emily.clark@example.com friendly
+2000000001 Malformed_Line_Only_Four_Fields
+1000000006 Fido D 01-01-2022 Jane_Doe 555-555-5555 aggressive
+99999999999 BadRegNum D 01-01-2022 Jane_Doe 555-555-5555 friendly
+1000000007 Polly B 05-15-2019 Invalid_Type X 05-15-2019 bad@type.com talkative
