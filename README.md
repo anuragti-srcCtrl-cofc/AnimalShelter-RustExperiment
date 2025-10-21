@@ -1,7 +1,7 @@
 
 # 🐾 Rust Animal Shelter VCard Generator
 
-
+Below are the goals / semi complete features
 
 This project is a high-performance, asynchronous file processor written in idiomatic Rust. It reads animal records from a text file, parses the data, and generates a standard vCard (.vcf) file for each animal concurrently.
 
